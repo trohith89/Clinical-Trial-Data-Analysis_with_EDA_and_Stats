@@ -1,0 +1,36 @@
+first_name,last_name,hba1c_start,hba1c_end,hba1c_change,full_name,adverse_reaction,trial_dosage
+Abdul-Nur,Isa,7.98,7.53,0.4500000000000002,abdul-nur isa,Hypoglycemia,54u - 50u
+Abel,Yonatan,7.88,7.5,0.3799999999999999,abel yonatan,Cough,38u - 39u
+Albinca,Komavec,7.89,7.46,0.4299999999999997,albinca komavec,Hypoglycemia,41u - 39u
+Alex,Crawford,7.69,7.3,0.39000000000000057,alex crawford,Hypoglycemia,51u - 62u
+Anenechi,Chidi,7.64,7.31,0.33000000000000007,anenechi chidi,Hypoglycemia,52u - 61u
+Berta,Napolitani,7.68,7.21,0.46999999999999975,berta napolitani,Injection Site Discomfort,42u - 44u
+Cecilie,Nilsen,9.63,9.21,0.41999999999999993,cecilie nilsen,Hypoglycemia,49u - 50u
+Christopher,Woodward,7.51,7.06,0.4500000000000002,christopher woodward,Nausea,55u - 51u
+Clinton,Miller,7.79,7.4,0.3899999999999997,clinton miller,Throat Irritation,42u - 51u
+Elliot,Richardson,7.56,7.09,0.46999999999999975,elliot richardson,Hypoglycemia,40u - 45u
+Finley,Chandler,7.65,7.26,0.39000000000000057,finley chandler,Headache,31u - 45u
+Flavia,Fiorentino,7.95,7.6,0.35000000000000053,flavia fiorentino,Cough,46u - 57u
+Gabriele,Saenger,8.35,7.97,0.3799999999999999,gabriele saenger,Hypoglycemia,22u - 30u
+Idalia,Moore,8.34,7.9,0.4399999999999995,idalia moore,Hypoglycemia,25u - 31u
+Jakob,Jakobsen,7.96,7.51,0.4500000000000002,jakob jakobsen,Hypoglycemia,28u - 26u
+Jasmine,Sykes,7.56,7.18,0.3799999999999999,jasmine sykes,Hypoglycemia,42u - 44u
+Jia Li,Teng,7.66,7.32,0.33999999999999986,jia li teng,Nausea,48u - 54u
+Joseph,Day,7.7,7.19,0.5099999999999998,joseph day,Hypoglycemia,29u - 36u
+Joseph,Day,7.7,7.19,0.5099999999999998,joseph day,Hypoglycemia,29u - 36u
+Kang,Mai,7.78,7.45,0.33000000000000007,kang mai,Injection Site Discomfort,39u - 36u
+Krisztina,Magyar,7.52,7.01,0.5099999999999998,krisztina magyar,Hypoglycemia,32u - 27u
+Lena,Baer,7.7,7.4,0.2999999999999998,lena baer,Hypoglycemia,41u - 38u
+Leon,Scholz,7.72,7.29,0.4299999999999997,leon scholz,Injection Site Discomfort,38u - 32u
+Lixue,Hsueh,9.21,8.8,0.41000000000000014,lixue hsueh,Injection Site Discomfort,22u - 23u
+Louise,Johnson,7.63,7.32,0.3099999999999996,louise johnson,Hypoglycemia,32u - 42u
+Manouck,Wubbels,7.66,7.4,0.2599999999999998,manouck wubbels,Throat Irritation,55u - 62u
+Merci,Leroux,8.98,8.64,0.33999999999999986,merci leroux,Hypoglycemia,27u - 33u
+Miłosław,Wiśniewski,7.51,7.08,0.4299999999999997,miłosław wiśniewski,Injection Site Discomfort,34u - 33u
+Monika,Lončar,9.13,8.72,0.41000000000000014,monika lončar,Hypoglycemia,49u - 46u
+Noe,Aranda,7.51,7.17,0.33999999999999986,noe aranda,Hypoglycemia,26u - 34u
+Ole,Petersen,7.95,7.55,0.40000000000000036,ole petersen,Hypoglycemia,29u - 32u
+Sofia,Hermansen,8.9,8.57,0.33000000000000007,sofia hermansen,Injection Site Discomfort,34u - 34u
+Steven,Roy,7.87,7.43,0.4400000000000004,steven roy,Headache,41u - 43u
+Tegan,Johnson,7.79,7.43,0.3600000000000003,tegan johnson,Headache,34u - 34u
+Xiuxiu,Chang,7.64,7.23,0.40999999999999925,xiuxiu chang,Hypoglycemia,32u - 41u

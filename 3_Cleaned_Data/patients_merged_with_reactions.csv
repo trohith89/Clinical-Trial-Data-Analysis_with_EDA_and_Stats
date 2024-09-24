@@ -1,0 +1,35 @@
+first_name_x,last_name_x,adverse_reaction,full_name,patient_id,gender,first_name_y,last_name_y,city,state,zip_code,country,birthdate,weight,height,bmi,street_no,street_name,phone_num,email_id
+Abdul-Nur,Isa,Hypoglycemia,abdul-nur isa,12,Male,Abdul-Nur,Isa,Brentwood,TN,37027.0,United States,1954-02-03,238.7,73,31.5,1092,Farm Meadow Drive,1 931 207 0839,Abdul-NurMummarIsa@rhyta.com
+Abel,Yonatan,Cough,abel yonatan,259,Male,Abel,Yonatan,Burbank,CA,91502.0,United States,1952-04-29,137.9,66,22.3,2621,Koontz Lane,1 818 841 7660,AbelYonatan@teleworm.us
+Albinca,Komavec,Hypoglycemia,albinca komavec,38,Female,Albinca,Komavec,Huron,SD,57350.0,United States,1986-06-05,189.9,66,30.6,1257,Elsie Drive,+1 (605) 204-6572,AlbincaKomavec@rhyta.com
+Alex,Crawford,Hypoglycemia,alex crawford,277,Male,Alex,Crawford,Hope,ID,83836.0,United States,1924-07-07,223.1,70,32.0,373,Fantages Way,+1 (208) 264-9063,AlexCrawford@dayrep.com
+Anenechi,Chidi,Hypoglycemia,anenechi chidi,14,Female,Anenechi,Chidi,Birmingham,AL,35203.0,United States,1961-03-07,228.4,67,35.8,826,Broad Street,+1 (205) 417-8095,AnenechiChidi@armyspy.com
+Berta,Napolitani,Injection Site Discomfort,berta napolitani,477,Female,Berta,Napolitani,Philadelphia,PA,19108.0,United States,1958-12-02,153.3,63,27.2,1815,Garrett Street,267-972-3749,BertaNapolitani@rhyta.com
+Cecilie,Nilsen,Hypoglycemia,cecilie nilsen,249,Female,Cecilie,Nilsen,North Loup,NE,68859.0,United States,1950-01-12,181.3,64,31.1,1854,Kyle Street,308-496-7837,CecilieNilsen@superrito.com
+Christopher,Woodward,Nausea,christopher woodward,153,Male,Christopher,Woodward,New York,NY,10004.0,United States,1984-09-04,212.2,66,34.2,3450,Southern Street,+1 (516) 630-5900,ChristopherWoodward@jourrapide.com
+Clinton,Miller,Throat Irritation,clinton miller,451,Male,Clinton,Miller,Roslyn,NY,11576.0,United States,1985-08-16,195.4,74,25.1,901,Southern Street,516-626-8021,ClintonKMiller@rhyta.com
+Elliot,Richardson,Hypoglycemia,elliot richardson,94,Male,Elliot,Richardson,Sunrise,FL,33323.0,United States,1973-01-14,168.1,71,23.4,4230,Ridenour Street,786-234-0038,ElliotRichardson@teleworm.us
+Finley,Chandler,Headache,finley chandler,143,Male,Finley,Chandler,New York,NY,10001.0,United States,1936-10-25,150.9,70,21.6,2754,Westwood Avenue,516-740-5280,FinleyChandler@dayrep.com
+Flavia,Fiorentino,Cough,flavia fiorentino,270,Female,Flavia,Fiorentino,,,,,1937-10-09,175.2,61,33.1,nan,,,
+Gabriele,Saenger,Hypoglycemia,gabriele saenger,209,Female,Gabriele,Saenger,Arlington,TX,76011.0,United States,1973-08-26,121.2,68,18.4,3499,Baker Avenue,+1 (817) 909-5667,GabrieleSaenger@armyspy.com
+Idalia,Moore,Hypoglycemia,idalia moore,460,Female,Idalia,Moore,San Diego,CA,92073.0,United States,1993-10-26,102.1,61,19.3,4380,Grim Avenue,619-710-6286,IdaliaEMoore@cuvox.de
+Jakob,Jakobsen,Hypoglycemia,jakob jakobsen,25,Male,Jakob,Jakobsen,Port Jervis,NY,12771.0,United States,1985-08-01,155.8,67,24.4,648,Old Dear Lane,+1 (845) 858-7707,JakobCJakobsen@einrot.com
+Jasmine,Sykes,Hypoglycemia,jasmine sykes,490,Female,Jasmine,Sykes,Lafayette,CA,94549.0,United States,1988-12-01,187.2,63,33.2,2607,Water Street,925-283-5425,JasmineSykes@jourrapide.com
+Jia Li,Teng,Nausea,jia li teng,452,Female,Jia Li,Teng,Upland,CA,91786.0,United States,1928-12-07,202.2,66,32.6,1251,Clarence Court,1 909 982 4264,JiaLiTeng@fleckens.hu
+Joseph,Day,Hypoglycemia,joseph day,70,Male,Joseph,Day,Lombard,IL,60148.0,United States,1986-02-23,150.6,68,22.9,1821,Virginia Street,+1 (773) 615-9328,JosephMDay@teleworm.us
+Kang,Mai,Injection Site Discomfort,kang mai,255,Male,Kang,Mai,Pittsburgh,PA,15205.0,United States,1986-09-16,200.4,70,28.8,1109,Beechwood Drive,412-274-6756,KangMai@jourrapide.com
+Krisztina,Magyar,Hypoglycemia,krisztina magyar,254,Female,Krisztina,Magyar,Orlando,FL,32810.0,United States,1950-05-03,117.0,64,20.1,3820,Terry Lane,321-287-0484,MagyarKrisztina@superrito.com
+Lena,Baer,Hypoglycemia,lena baer,128,Female,Lena,Baer,Elma,WA,98541.0,United States,1977-11-10,170.7,61,32.2,272,Boone Crockett Lane,360-482-2553,LenaBaer@rhyta.com
+Leon,Scholz,Injection Site Discomfort,leon scholz,332,Male,Leon,Scholz,Irvine,CA,92618.0,United States,1989-09-14,150.9,70,21.6,3106,Evergreen Lane,1 323 635 9919,LeonScholz@fleckens.hu
+Lixue,Hsueh,Injection Site Discomfort,lixue hsueh,336,Female,Lixue,Hsueh,Crawfordsville,IN,47933.0,United States,1925-03-29,102.7,59,20.7,1540,Overlook Drive,765-359-0147,LixueHsueh@dayrep.com
+Louise,Johnson,Hypoglycemia,louise johnson,55,Female,Louise,Johnson,Burlington,MA,1803.0,United States,1931-03-01,141.0,62,25.8,4984,Hampton Meadows,978-407-1874,LouiseJohnson@rhyta.com
+Manouck,Wubbels,Throat Irritation,manouck wubbels,403,Female,Manouck,Wubbels,Utica,MS,39175.0,United States,1964-11-03,201.5,65,33.5,4789,Devils Hill Road,601-885-6550,ManouckWubbels@armyspy.com
+Merci,Leroux,Hypoglycemia,merci leroux,360,Female,Merci,Leroux,Copperas Cove,TX,76552.0,United States,1955-06-08,132.2,65,22.0,4519,Sussex Court,254-518-6365,MerciLeroux@jourrapide.com
+Miłosław,Wiśniewski,Injection Site Discomfort,miłosław wiśniewski,373,Male,Miłosław,Wiśniewski,Collinsville,IL,62234.0,United States,1979-11-13,149.2,68,22.7,796,Eagle Street,618-346-3914,MiloslawWisniewski@rhyta.com
+Monika,Lončar,Hypoglycemia,monika lončar,178,Female,Monika,Lončar,Los Angeles,CA,90014.0,United States,1927-07-19,203.7,63,36.1,377,Norman Street,323-327-4721,MonikaLoncar@rhyta.com
+Noe,Aranda,Hypoglycemia,noe aranda,52,Female,Noe,Aranda,Davenport,IL,52801.0,United States,1938-08-07,107.1,63,19.0,3977,Jail Drive,1 309 912 9553,NoeArandaGranado@dayrep.com
+Ole,Petersen,Hypoglycemia,ole petersen,354,Male,Ole,Petersen,Dudley,GA,31022.0,United States,1931-07-14,136.8,69,20.2,3650,Graystone Lakes,478-676-7058,OlePetersen@armyspy.com
+Sofia,Hermansen,Injection Site Discomfort,sofia hermansen,376,Female,Sofia,Hermansen,Houma,LA,70360.0,United States,1957-02-27,186.8,65,31.1,2272,Woodland Avenue,985-580-4827,SofiaBHermansen@rhyta.com
+Steven,Roy,Headache,steven roy,394,Male,Steven,Roy,Reston,VA,22070.0,United States,1975-09-19,162.4,72,22.0,2816,Ashford Drive,1 703 716 8652,StevenBRoy@rhyta.com
+Tegan,Johnson,Headache,tegan johnson,408,Female,Tegan,Johnson,Oklahoma City,OK,73107.0,United States,1928-01-19,156.6,65,26.1,2636,Benson Park Drive,405-470-5088,TeganJohnson@gustr.com
+Xiuxiu,Chang,Hypoglycemia,xiuxiu chang,8,Female,Xiuxiu,Chang,Morgan Hill,CA,95037.0,United States,1958-08-13,158.0,60,30.9,2687,Black Oak Hollow Road,1 408 778 3236,XiuxiuChang@einrot.com
